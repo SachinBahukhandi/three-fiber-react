@@ -1,4 +1,4 @@
-import { useRef } from "react";
+import React, { useRef } from "react";
 import { useFrame, useLoader } from "@react-three/fiber";
 import EarthDayMap from "../src/assets/textures/8k_earth_daymap.jpg";
 import EarthCloudsMap from "../src/assets/textures/8k_earth_clouds.jpg";
