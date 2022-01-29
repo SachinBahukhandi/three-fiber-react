@@ -1,6 +1,4 @@
-import logo from "./logo.svg";
-import { useRef } from "react";
-import { Canvas, useFrame } from "@react-three/fiber";
+import { Canvas } from "@react-three/fiber";
 import Earth from "./Earth";
 import { OrbitControls } from '@react-three/drei';
 function Box() {
